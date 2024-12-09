@@ -1355,7 +1355,7 @@ section {
   font-weight: 700;
   color: #fff;
   position: relative;
-  font-family: "Satisfy", serif;
+  font-family: "Poppins", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
 }
@@ -1387,7 +1387,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #f3a200;
+  background: #00B2FA;
   color: #fff;
   text-decoration: none;
 }
